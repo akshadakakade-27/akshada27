@@ -9,6 +9,10 @@ My journey blends creative front-end interfaces with the power of data-driven ba
 💡 Whether I’m designing sleek UIs or optimizing ML models, my goal is to craft seamless, efficient, and innovative solutions that make an impact.
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)][(https://linkedin.com/in/AkshadaKakade)]
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)][(akshada.kakade23@gmail.com)] 
+
 
 ## 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -38,7 +42,5 @@ My journey blends creative front-end interfaces with the power of data-driven ba
 
 ---
 [![](https://visitcount.itsvg.in/api?id=akshadakakade-27&icon=0&color=0)](https://visitcount.itsvg.in)
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)][(https://linkedin.com/in/AkshadaKakade)]
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)][(akshada.kakade23@gmail.com)] 
+
 
