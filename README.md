@@ -11,7 +11,7 @@ My journey blends creative front-end interfaces with the power of data-driven ba
 
 ## 🌐 Socials:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) (https://linkedin.com/in/AkshadaKakade)<br>
-![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white) (akshada.kakade23@gmail.com)
+![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white) (akshada.kakade23@gmail.com)<br><br>
 
 
 ## 💻 Tech Stack:
@@ -36,7 +36,7 @@ My journey blends creative front-end interfaces with the power of data-driven ba
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="50" style="padding:20px;"/>
 </p>
 <br>
-
+<br>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -62,14 +62,18 @@ My journey blends creative front-end interfaces with the power of data-driven ba
 [![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&label=)](https://jupyter.org/)
 
 
+<br><br>
+### 📊 GitHub Stats:
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=akshadakakade-27&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=akshadakakade-27&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshadakakade-27&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=akshadakakade-27&theme=radical&hide_border=false&count_private=true)<br/>
+<br>
+### 📌**Top Languages (Compact View):**
+![](https://nirzak-streak-stats.vercel.app/?user=akshadakakade-27&theme=radical&hide_border=false)<br/>
+### 🔥 **GitHub Streak Stats (Radical Theme)**:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshadakakade-27&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=akshadakakade-27&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 
